@@ -221,12 +221,12 @@ msgid "an"
 msgstr ""
 
 #: lib/ex_admin/filter.ex:12
-msgid "Содержит"
-msgstr ""
+msgid "Contains"
+msgstr "Содержит"
 
 #: lib/ex_admin/filter.ex:12
-msgid "Заканчивается на"
-msgstr ""
+msgid "End With"
+msgstr "Заканчивается на"
 
 #: lib/ex_admin/filter.ex:12
 msgid "Equals"
@@ -252,3 +252,7 @@ msgstr "Группы"
 #: web/templates/themes/admin_lte2/layout/header.html.eex:33
 msgid "Themes"
 msgstr "Темы"
+
+#: lib/ex_admin/filter.ex:12
+msgid "Equals"
+msgstr "Равно"
